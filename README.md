@@ -68,10 +68,3 @@ This project creates and manipulates three main tables:
 
 1. Run the script in SQL Server Management Studio or any SQL execution environment.
 2. Modify or extend the schema and data as needed for your application.
-
----
-
-## 🛠️ Author
-
-**Your Name**  
-Feel free to contribute or suggest improvements
